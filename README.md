@@ -5,4 +5,4 @@
 - `source venv/bin/activate`
 - `pip install -r requirements.txt`
 - `django-admin startproject DjangoProjectMylib`
-- `python manage.py startapp имя_приложения`
+- `python manage.py startapp web`
